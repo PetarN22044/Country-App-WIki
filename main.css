@@ -1,0 +1,64 @@
+.zaDiv1{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+
+}
+.button-width{
+   
+    width: 200px;
+    margin: 7px;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+
+}
+.zaDiv2{
+    display: flex;
+    justify-content: center;
+}
+.zaDiv3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 100px;
+
+}
+.margin{
+    margin: 10px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+.margin1{
+    margin: 10px;
+    width: 300px;
+}
+
+
+.spinner-border{
+    display: flex;
+    justify-content: center;
+}
+li.list-group-item {
+    text-align: center;
+    font-size: 20px;
+  }
+  img.card-img-top {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .ddiv{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  .btn11{
+    width: 200px;
+    color: black;
+    border-radius: 10px solid black;
+    
+  }
